@@ -37,6 +37,11 @@
         "value": "1711510822",
         "required": true
       },
+      "SUPPORT_CHAT_ID": {
+        "description": "Id of LOGGER_ID or Support Group id.",
+        "value": "-1001381460260",
+        "required": true
+      },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
         "value": "",
